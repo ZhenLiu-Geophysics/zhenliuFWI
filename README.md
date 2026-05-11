@@ -16,4 +16,6 @@ If this sounds exciting, don’t forget to follow and give the repo a star. Your
 
 ## License
 
-This work is licensed under CCBY-NC-ND 4.0.
+This work is licensed under CC BY-NC-ND 4.0.
+
+See the `LICENSE` file for more details.
